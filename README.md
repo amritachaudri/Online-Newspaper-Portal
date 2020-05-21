@@ -24,7 +24,7 @@ A webpage with latest news and happenings around the world.
 Concrete goals:
 To develop a platform where the user can read daily news just like a newspaper
 # Description of Project  
-<img src = 'images_file/dp.png' width = 400 height = 400>
+<img src = 'dp.png' width = 400 height = 400>
 
 
 
