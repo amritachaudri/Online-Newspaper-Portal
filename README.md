@@ -2,7 +2,7 @@
 The project is made using HTML
 Background and Objectives of the Project. . 
 
-###Objective:
+Objective:
 To achieve a webpage on “Online Newspaper Portal “. 
 Containing:
 •	Home page
@@ -18,13 +18,13 @@ Code used:
 •	CSS 
 •	JavaScript
 
-###Outcome of the Project: 
+Outcome of the Project: 
 A webpage with latest news and happenings around the world.
 
-###Concrete goals:
+Concrete goals:
 To develop a platform where the user can read daily news just like a newspaper
 # Description of Project  
-<img src = 'img/dp.png' width = 400 height = 400>
+<img src = 'images_file/dp.png' width = 400 height = 400>
 
 
 
